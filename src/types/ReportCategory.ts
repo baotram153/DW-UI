@@ -1,0 +1,1 @@
+export type ReportCategory = 'Citations' | 'Authors' | 'Categories' | 'Machine Learning';
